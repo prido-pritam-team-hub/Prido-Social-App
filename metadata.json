@@ -1,0 +1,6 @@
+{
+  "name": "PRIDO",
+  "description": "Creative social network for makers, developers, and creators to share ideas, media, and connect in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
